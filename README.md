@@ -4,6 +4,10 @@ Throttle script is used to simulate throttlign from the command line.
 
 Before using it make sure you have installed node and npm.
 
+After installing npm make sure you run: <br>
+`npm install` <br>
+for installing all dependences.
+
 To run the script please run in terminal: <br>
 `node throttle-custom.js`
 
